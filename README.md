@@ -7,7 +7,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a real-world movie 
 - IMDb ratings and distribution
 - Box office revenue trends
 - Relationship between budget and revenue
-- There is proper explanation fo each code and its purpose.
+- There is proper explanation for each code and its purpose.
 
 The dataset is too large to upload to GitHub. You can download it from:  
 [Movie Dataset on Kaggle](https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization)
