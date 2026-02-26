@@ -7,10 +7,11 @@ This project performs **Exploratory Data Analysis (EDA)** on a real-world movie 
 - IMDb ratings and distribution
 - Box office revenue trends
 - Relationship between budget and revenue
+- There is proper explanation fo each code and its purpose.
 
 The dataset is too large to upload to GitHub. You can download it from:  
 [Movie Dataset on Kaggle](https://www.kaggle.com/datasets/mjshubham21/movie-dataset-for-analytics-and-visualization)
-
+Add this dataset into same folder.
 ---
 
 ## 🛠️ Tools & Libraries
@@ -22,6 +23,7 @@ The dataset is too large to upload to GitHub. You can download it from:
 - Jupyter Notebook  
 
 ---
+## At last there is a code which converts the .csv file data into .txt in tabular form for better understanding and removing corrupted files(Data Cleaning).
 
 ## 📂 How to Run
 1. Clone this repository:  
